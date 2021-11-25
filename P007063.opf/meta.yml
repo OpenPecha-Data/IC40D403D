@@ -1,5 +1,7 @@
 id: P007063
 initial_creation_type: ocr
+created_at: 30/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG8724
   title: 'དྭགས་པོ་གྲྭ་ཚང་གི་ཡིག་ཆ། '
@@ -35,10 +37,3 @@ source_metadata:
       volume_number: 5
       total_pages: 50
       base_file: v005.txt
-ebook_metadata:
-  title: 'དྭགས་པོ་གྲྭ་ཚང་གི་ཡིག་ཆ། '
-  author: ''
-  sku: P007063
-  cover: cover.jpg
-  layers:
-  - pagination
